@@ -83,7 +83,7 @@ export default function Home() {
         <h3 className="text-4xl font-bold mb-8">Get In Touch</h3>
         <p className="text-gray-300 mb-8">Interested in collaborating or want to chat about engineering?</p>
         <a 
-          href="mailto:your.email@example.com" 
+          href="mailto:your.zampau@umich.edu" 
           className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg font-semibold transition inline-block"
         >
           Send Me an Email

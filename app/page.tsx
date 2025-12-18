@@ -92,7 +92,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="container mx-auto px-6 py-8 text-center text-gray-400 border-t border-gray-700">
-        <p>© 2024 Ulrico Zampa. All rights reserved.</p>
+        <p>© 2026 Ulrico Zampa.</p>
       </footer>
     </main>
   );

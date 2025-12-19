@@ -6,14 +6,12 @@ export default function Home() {
         <nav className="flex justify-between items-center">
           <h1 className="text-2xl font-bold">Ulrico Zampa</h1>
           <div className="space-x-6">
-            <a href="#projects" className="hover:text-blue-400 transition">Projects</a>
-            <a href="#about" className="hover:text-blue-400 transition">About</a>
-            <a href="#contact" className="hover:text-blue-400 transition">Contact</a>
+            <a href="/" className="hover:text-blue-400 transition">Home</a>
+            <a href="/projects" className="hover:text-blue-400 transition">Projects</a>
+            <a href="/cv" className="hover:text-blue-400 transition">CV</a>
           </div>
         </nav>
       </header>
-
-      {/* Hero Section */}
       <section className="container mx-auto px-6 py-20 text-center">
         <h2 className="text-5xl font-bold mb-4">Mechanical Engineer</h2>
         <p className="text-xl text-gray-300 mb-8">

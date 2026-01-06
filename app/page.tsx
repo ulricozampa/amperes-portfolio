@@ -72,7 +72,7 @@ export default function Home() {
             vessel, ORCA 2, in preparation for the RoboBoat 2026 Competition in February. 
           </p>
           <p>
-            When I'm not in the lab or classroom, you can find me kitesurfing, skiing, climbing, 
+            When I'm not in the lab or classroom, you can find me kitesurfing, climbing, 
             or mountaineering - always seeking the next adventure.
           </p>
         </div>
@@ -80,14 +80,8 @@ export default function Home() {
 
       {/* Contact Section */}
       <section id="contact" className="container mx-auto px-6 py-20 text-center">
-        <h3 className="text-4xl font-bold mb-8">Get In Touch</h3>
-        <p className="text-gray-300 mb-8">Interested in collaborating or want to chat about engineering?</p>
-        <a 
-          href="mailto:zampau@umich.edu" 
-          className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg font-semibold transition inline-block"
-        >
-          Send Me an Email
-        </a>
+        <p className="text-gray-300 mb-8">zampau[at]umich.edu</p>
+       
       </section>
 
       {/* Footer */}

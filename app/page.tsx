@@ -1,92 +1,44 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 text-white">
+    <main className="min-h-screen bg-white text-gray-800">
       {/* Header */}
-      <header className="container mx-auto px-6 py-8">
-        <nav className="flex justify-between items-center">
-          <h1 className="text-2xl font-bold">Ulrico Zampa</h1>
-          <div className="space-x-6">
-            <a href="/" className="hover:text-blue-400 transition">Home</a>
-            <a href="/projects" className="hover:text-blue-400 transition">Projects</a>
-            <a href="/cv" className="hover:text-blue-400 transition">CV</a>
-          </div>
-        </nav>
+      <header className="border-b border-gray-100">
+        <div className="container mx-auto px-6 py-6">
+          <nav className="flex justify-center items-center">
+            <div className="space-x-8">
+              <a href="/" className="text-gray-900 font-medium hover:text-gray-600 transition">Home</a>
+              <a href="/Ulrico Zampa_Resume_2025_D10.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition">CV</a>
+              <a href="/projects" className="text-gray-600 hover:text-gray-900 transition">Projects</a>
+            </div>
+          </nav>
+        </div>
       </header>
-      <section className="container mx-auto px-6 py-20 text-center">
-        <h2 className="text-5xl font-bold mb-4">Mechanical Engineer</h2>
-        <p className="text-xl text-gray-300 mb-8">
-          Building autonomous systems and pushing the boundaries of marine engineering
-        </p>
-        <a 
-          href="#projects" 
-          className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg font-semibold transition inline-block"
-        >
-          View My Work
-        </a>
-      </section>
 
-      {/* Projects Section */}
-      <section id="projects" className="container mx-auto px-6 py-20">
-        <h3 className="text-4xl font-bold mb-12 text-center">Featured Projects</h3>
-        
-        <div className="grid md:grid-cols-2 gap-8">
-          {/* Project 1: UM::Autonomy */}
-          <div className="bg-gray-800 rounded-lg p-8 hover:bg-gray-750 transition">
-            <h4 className="text-2xl font-bold mb-4">UM::Autonomy</h4>
-            <p className="text-gray-300 mb-4">
-              UM::Autonomy Chief Naval Architect for competitive autonomus surface vessel team. 
-              Leading hull design, CNC fabrication, and structural optimization for 
-              mid-February competition deadlines.
-            </p>
-            <div className="flex flex-wrap gap-2">
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">Naval Architecture</span>
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">CNC Manufacturing</span>
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">Autodesk Fusion 360</span>
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">Rhino 7</span>
-            </div>
-          </div>
-
-          {/* Project 2 - Add your own */}
-          <div className="bg-gray-800 rounded-lg p-8 hover:bg-gray-750 transition">
-            <h4 className="text-2xl font-bold mb-4"> Project SHEO</h4>
-            <p className="text-gray-300 mb-4">
-              Coming Soon!
-            </p>
-            <div className="flex flex-wrap gap-2">
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">Tag X</span>
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">Tag Y</span>
-              <span className="bg-blue-600 px-3 py-1 rounded text-sm">Tag Z</span>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* About Section */}
-      <section id="about" className="container mx-auto px-6 py-20 bg-gray-850">
-        <h3 className="text-4xl font-bold mb-8 text-center">About Me</h3>
-        <div className="max-w-3xl mx-auto text-gray-300 space-y-4">
-          <p>
-            Second-year undergraduate student at the University of Michigan (College of Engineering), 
-            majoring in Naval Architecture and Marine Engineering, passionate about ship design, marine 
-            innovation, and hands-on engineering challenges. Currently, I'm working on UM:Autonomy’s new 
-            vessel, ORCA 2, in preparation for the RoboBoat 2026 Competition in February. 
+      {/* Hero Section */}
+      <section className="container mx-auto px-6 py-24">
+        <div className="max-w-3xl mx-auto text-center">
+          <h1 className="text-4xl font-normal mb-6 text-gray-900">Ulrico Zampa</h1>
+          <p className="text-l text-gray-600 leading-relaxed mb-4">
+            I am interested in building autonomous systems and pushing the boundaries of marine engineering.
           </p>
-          <p>
-            When I'm not in the lab or classroom, you can find me kitesurfing, climbing, 
-            or mountaineering - always seeking the next adventure.
+          <p className="text-m text-gray-600 leading-relaxed">
+            My work focuses on naval architecture and structural optimization for autonomous surface vessels. 
+            I study Naval Architecture and Marine Engineering at the University of Michigan.
           </p>
         </div>
       </section>
 
+      
       {/* Contact Section */}
-      <section id="contact" className="container mx-auto px-6 py-20 text-center">
-        <p className="text-gray-300 mb-8">zampau[at]umich.edu</p>
-       
+      <section className="container mx-auto px-6 py-16">
+        <div className="max-w-3xl mx-auto text-center">
+          <p className="text-gray-600">zampau@umich.edu</p>
+        </div>
       </section>
 
       {/* Footer */}
-      <footer className="container mx-auto px-6 py-8 text-center text-gray-400 border-t border-gray-700">
-        <p>© 2026 Ulrico Zampa</p>
+      <footer className="container mx-auto px-6 py-8 border-t border-gray-100">
+        <p className="text-gray-400 text-sm text-center">© 2026 Ulrico Zampa</p>
       </footer>
     </main>
   );

@@ -17,7 +17,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="container mx-auto px-6 py-24">
         <div className="max-w-3xl mx-auto text-left-align">
-          <h1 className="text-4xl font-normal mb-6 text-gray-900">Ulrico Zampa</h1>
+          <h1 className="text-3xl font-normal mb-6 text-gray-900">Ulrico Zampa</h1>
           
           <p className="text-s text-gray-600 leading-relaxed">
             Second-year undergraduate student at the University of Michigan (College of Engineering), majoring 

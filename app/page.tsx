@@ -24,7 +24,7 @@ export default function Home() {
             in Naval Architecture and Marine Engineering, passionate about ship design, marine innovation, and 
             hands-on engineering challenges. Currently, I'm working on UM:Autonomy’s new vessel, ORCA 2, in 
             preparation for the RoboBoat 2026 Competition in February. 
-zampau@umich.edu
+
           </p>
         </div>
       </section>

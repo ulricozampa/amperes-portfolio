@@ -21,28 +21,30 @@ export default function Projects() {
         <div className="space-y-16 max-w-3xl">
           {/* Project 1: UM::Autonomy */}
           <div className="border-l-2 border-gray-200 pl-6">
-            <h2 className="text-2xl font-normal mb-4 text-gray-900">UM::Autonomy</h2>
+            <h2 className="text-2xl font-normal mb-4 text-gray-900">UM::Autonomy: Ann Arbor, Michigan</h2>
             <p className="text-gray-600 leading-relaxed mb-4">
               Chief Naval Architect for competitive autonomous surface vessel team. 
               Leading hull design, CNC fabrication, and structural optimization for 
               mid-February competition deadlines.
             </p>
             <div className="flex flex-wrap gap-3">
-              <span className="text-sm text-gray-500">Naval Architecture</span>
+              <span className="text-sm text-gray-500">Rhino7/ORCA3D</span>
+              <span className="text-sm text-gray-500">•</span>
+              <span className="text-sm text-gray-500">Autodesk Fusion</span>
               <span className="text-sm text-gray-500">•</span>
               <span className="text-sm text-gray-500">CNC Fabrication</span>
               <span className="text-sm text-gray-500">•</span>
-              <span className="text-sm text-gray-500">CAD Design</span>
-              <span className="text-sm text-gray-500">•</span>
-              <span className="text-sm text-gray-500">Structural Optimization</span>
+              <span className="text-sm text-gray-500">GHS (General Hydrostatic)</span>
             </div>
           </div>
 
           {/* Project 2 */}
           <div className="border-l-2 border-gray-200 pl-6">
-            <h2 className="text-2xl font-normal mb-4 text-gray-900">Add Your Next Project</h2>
+            <h2 className="text-2xl font-normal mb-4 text-gray-900">Urban Models (1:1000): Ticino, Switzerland</h2>
             <p className="text-gray-600 leading-relaxed mb-4">
-              Description of your project goes here.
+              This project translated plans of 23 urban centers in Ticino into wooden and 3-D printed scaled models. The models were commissioned 
+              by the cantonal department for the territorial development to provide local municipal administrators with a practical instrument to 
+              visualize the present urban configuration and work efficiently on new infrastructure and urban planning.
             </p>
             <div className="flex flex-wrap gap-3">
               <span className="text-sm text-gray-500">Skill 1</span>

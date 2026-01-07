@@ -7,7 +7,7 @@ export default function Projects() {
           <nav className="flex justify-center items-center">
             <div className="space-x-8">
               <a href="/" className="text-gray-600 hover:text-gray-900 transition">Home</a>
-              <a href="/Ulrico Zampa_Resume_2025_D10.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition">CV</a>
+              <a href="/CV-Ulrico-Zampa.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition">CV</a>
               <a href="/projects" className="text-gray-900 font-medium hover:text-gray-600 transition">Projects</a>
             </div>
           </nav>

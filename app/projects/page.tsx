@@ -38,7 +38,7 @@ export default function Projects() {
             </div>
           </div>
 
-          {/* Project 2 */}
+          {/* Project 2: Modellini Marchesoni */}
           <div className="border-l-2 border-gray-200 pl-6">
             <h2 className="text-2xl font-normal mb-4 text-gray-900">Urban Models (1:1000): Ticino, Switzerland</h2>
             <p className="text-gray-600 leading-relaxed mb-4">

@@ -27,6 +27,14 @@ export default function Projects() {
               Leading hull design, CNC fabrication, and structural optimization for 
               mid-February competition deadlines.
             </p>
+            <a 
+              href="https://umautonomy.com/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-block text-gray-900 hover:text-gray-600 transition mb-4"
+            >
+              Visit UM::Autonomy →
+            </a>
             <div className="flex flex-wrap gap-3">
               <span className="text-sm text-gray-500">Rhino7</span>
               <span className="text-sm text-gray-500">•</span>

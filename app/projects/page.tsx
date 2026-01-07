@@ -56,6 +56,14 @@ export default function Projects() {
               by the cantonal department for the territorial development to provide local municipal administrators with a practical instrument to 
               visualize the present urban configuration and work efficiently on new infrastructure and urban planning.
             </p>
+            <a 
+              href="https://www.modelli.ch/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-block text-gray-900 hover:text-gray-600 transition mb-4"
+            >
+              Visit Modelli Marchesoni →
+            </a>
             <div className="flex flex-wrap gap-3">
               <span className="text-sm text-gray-500">Rhino7</span>
               <span className="text-sm text-gray-500">•</span>

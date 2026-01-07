@@ -47,13 +47,19 @@ export default function Projects() {
               visualize the present urban configuration and work efficiently on new infrastructure and urban planning.
             </p>
             <div className="flex flex-wrap gap-3">
-              <span className="text-sm text-gray-500">Skill 1</span>
+              <span className="text-sm text-gray-500">Rhino7</span>
               <span className="text-sm text-gray-500">•</span>
-              <span className="text-sm text-gray-500">Skill 2</span>
+              <span className="text-sm text-gray-500">Formlabs Resin Printers</span>
             </div>
           </div>
         </div>
       </section>
+    {/* Footer */}
+      <footer className="container mx-auto px-6 py-8 border-t border-gray-100">
+        <p className="text-gray-400 text-sm text-center">© 2026 Amperes</p>
+      </footer>  
     </main>
+    
+    
   );
 }

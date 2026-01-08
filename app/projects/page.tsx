@@ -53,6 +53,11 @@ export default function Projects() {
                 alt="UM::Autonomy project image 3"
                 className="w-full h-auto rounded"
               />
+              <img 
+                src="/Comp Photo.jpg" 
+                alt="UM::Autonomy project image 3"
+                className="w-full h-auto rounded"
+              />
             </div>
             
             <div className="flex flex-wrap gap-3">

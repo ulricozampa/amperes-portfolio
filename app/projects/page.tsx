@@ -114,13 +114,8 @@ export default function Projects() {
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/Screenshot 2026-01-07 at 09.43.43.jpg" 
-                alt="Modellini image 3"
-                className="w-full h-48 rounded object-cover"
-              />
-              <img 
                 src="/IMG_7553.jpg" 
-                alt="Modellini project image 4"
+                alt="Modellini image 3"
                 className="w-full h-48 rounded object-cover"
               />
               

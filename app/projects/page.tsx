@@ -39,17 +39,17 @@ export default function Projects() {
             {/* Image Gallery */}
             <div className="grid grid-cols-3 gap-4 mb-6">
               <img 
-                src="/image1.jpg" 
+                src="/Orca.jpg" 
                 alt="UM::Autonomy project image 1"
                 className="w-full h-auto rounded"
               />
               <img 
-                src="/image2.jpg" 
+                src="/Orca2 section cut.jpg" 
                 alt="UM::Autonomy project image 2"
                 className="w-full h-auto rounded"
               />
               <img 
-                src="/image3.jpg" 
+                src="/IMG_3459.jpg" 
                 alt="UM::Autonomy project image 3"
                 className="w-full h-auto rounded"
               />

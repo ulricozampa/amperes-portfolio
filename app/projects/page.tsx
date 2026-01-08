@@ -55,7 +55,17 @@ export default function Projects() {
               />
               <img 
                 src="/Comp Photo.jpg" 
-                alt="UM::Autonomy project image 3"
+                alt="UM::Autonomy project image 4"
+                className="w-full h-auto rounded"
+              />
+              <img 
+                src="/IMG_0159.jpg" 
+                alt="UM::Autonomy project image 5"
+                className="w-full h-auto rounded"
+              />
+              <img 
+                src="/Screenshot 2026-01-08 at 13.38.49.jpg" 
+                alt="UM::Autonomy project image 6"
                 className="w-full h-auto rounded"
               />
             </div>

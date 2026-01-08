@@ -41,32 +41,32 @@ export default function Projects() {
               <img 
                 src="/Orca.jpg" 
                 alt="UM::Autonomy project image 1"
-                className="w-full h-auto rounded"
+                className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/Orca2 section cut.jpg" 
                 alt="UM::Autonomy project image 2"
-                className="w-full h-auto rounded"
+                className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/IMG_3459.jpg" 
                 alt="UM::Autonomy project image 3"
-                className="w-full h-auto rounded"
+                className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/Comp Photo.jpg" 
                 alt="UM::Autonomy project image 4"
-                className="w-full h-auto rounded"
+                className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/IMG_0159.jpg" 
                 alt="UM::Autonomy project image 5"
-                className="w-full h-auto rounded"
+                className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/Screenshot 2026-01-08 at 13.38.49.jpg" 
                 alt="UM::Autonomy project image 6"
-                className="w-full h-auto rounded"
+                className="w-full h-48 rounded object-cover"
               />
             </div>
             

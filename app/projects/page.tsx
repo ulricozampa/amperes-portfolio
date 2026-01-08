@@ -31,10 +31,30 @@ export default function Projects() {
               href="https://umautonomy.com/" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className="inline-block text-gray-900 hover:text-gray-600 transition mb-4"
+              className="inline-block text-gray-900 hover:text-gray-600 transition mb-6"
             >
               Visit UM::Autonomy →
             </a>
+            
+            {/* Image Gallery */}
+            <div className="grid grid-cols-3 gap-4 mb-6">
+              <img 
+                src="/image1.jpg" 
+                alt="UM::Autonomy project image 1"
+                className="w-full h-auto rounded"
+              />
+              <img 
+                src="/image2.jpg" 
+                alt="UM::Autonomy project image 2"
+                className="w-full h-auto rounded"
+              />
+              <img 
+                src="/image3.jpg" 
+                alt="UM::Autonomy project image 3"
+                className="w-full h-auto rounded"
+              />
+            </div>
+            
             <div className="flex flex-wrap gap-3">
               <span className="text-sm text-gray-500">Rhino7</span>
               <span className="text-sm text-gray-500">•</span>
@@ -56,14 +76,6 @@ export default function Projects() {
               by the cantonal department for the territorial development to provide local municipal administrators with a practical instrument to 
               visualize the present urban configuration and work efficiently on new infrastructure and urban planning.
             </p>
-            <a 
-              href="https://www.modelli.ch/" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="inline-block text-gray-900 hover:text-gray-600 transition mb-4"
-            >
-              Visit Modelli Marchesoni →
-            </a>
             <div className="flex flex-wrap gap-3">
               <span className="text-sm text-gray-500">Rhino7</span>
               <span className="text-sm text-gray-500">•</span>

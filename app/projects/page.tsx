@@ -91,10 +91,47 @@ export default function Projects() {
               by the cantonal department for the territorial development to provide local municipal administrators with a practical instrument to 
               visualize the present urban configuration and work efficiently on new infrastructure and urban planning.
             </p>
+
+            <a 
+              href="https://www.modelli.ch/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-block text-gray-900 hover:text-gray-600 transition mb-6"
+            >
+              Visit Modellini Marchesoni →
+            </a>
+            
+            {/* Image Gallery */}
+            <div className="grid grid-cols-3 gap-4 mb-6">
+              <img 
+                src="/IMG_7325.jpg" 
+                alt=" Modellini image 1"
+                className="w-full h-48 rounded object-cover"
+              />
+              <img 
+                src="/IMG_7134.jpg" 
+                alt="Modellini image 2"
+                className="w-full h-48 rounded object-cover"
+              />
+              <img 
+                src="/Screenshot 2026-01-07 at 09.43.43.jpg" 
+                alt="Modellini image 3"
+                className="w-full h-48 rounded object-cover"
+              />
+              <img 
+                src="/IMG_7553.jpg" 
+                alt="Modellini project image 4"
+                className="w-full h-48 rounded object-cover"
+              />
+              
+            </div>
+
             <div className="flex flex-wrap gap-3">
               <span className="text-sm text-gray-500">Rhino7</span>
               <span className="text-sm text-gray-500">•</span>
               <span className="text-sm text-gray-500">Formlabs Resin Printers</span>
+              <span className="text-sm text-gray-500">•</span>
+              <span className="text-sm text-gray-500">CNC Fabrication</span>
             </div>
           </div>
         </div>

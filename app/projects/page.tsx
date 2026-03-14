@@ -42,7 +42,7 @@ export default function Projects() {
               rel="noopener noreferrer" 
               className="inline-block text-gray-900 hover:text-gray-600 transition mb-6"
             >
-              Technical Design Report →
+                     Technical Design Report →
             </a>
             
             {/* Image Gallery */}

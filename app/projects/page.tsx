@@ -64,7 +64,7 @@ export default function Projects() {
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/IMG_1688.jpg" 
+                src="/IMG_1688.JPG" 
                 alt="UM::Autonomy project image 6"
                 className="w-full h-48 rounded object-cover"
               />

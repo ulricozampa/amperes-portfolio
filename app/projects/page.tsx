@@ -44,7 +44,7 @@ export default function Projects() {
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/Orca2 section cut.jpg" 
+                src="/IMG_1688.JPG" 
                 alt="UM::Autonomy project image 2"
                 className="w-full h-48 rounded object-cover"
               />
@@ -64,7 +64,7 @@ export default function Projects() {
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/IMG_1688.JPG" 
+                src="/Orca2 section cut.jpg" 
                 alt="UM::Autonomy project image 6"
                 className="w-full h-48 rounded object-cover"
               />

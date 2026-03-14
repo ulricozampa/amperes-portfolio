@@ -33,7 +33,7 @@ export default function Projects() {
               rel="noopener noreferrer" 
               className="inline-block text-gray-900 hover:text-gray-600 transition mb-6"
             >
-              Visit UM::Autonomy →
+              Visit UM::Autonomy →     T
             </a>
 
             <a 
@@ -42,7 +42,7 @@ export default function Projects() {
               rel="noopener noreferrer" 
               className="inline-block text-gray-900 hover:text-gray-600 transition mb-6"
             >
-                     Technical Design Report →
+                     echnical Design Report →
             </a>
             
             {/* Image Gallery */}

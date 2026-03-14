@@ -35,6 +35,15 @@ export default function Projects() {
             >
               Visit UM::Autonomy →
             </a>
+
+            <a 
+              href="/TDR_UMAutonomy_RB2026.pdf" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-block text-gray-900 hover:text-gray-600 transition mb-6"
+            >
+              Technical Design Report →
+            </a>
             
             {/* Image Gallery */}
             <div className="grid grid-cols-3 gap-4 mb-6">

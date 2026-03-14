@@ -22,8 +22,8 @@ export default function Home() {
           <p className="text-s text-gray-600 leading-relaxed">
             Second-year undergraduate student at the University of Michigan (College of Engineering), majoring 
             in Naval Architecture and Marine Engineering, passionate about ship design, marine innovation, and 
-            hands-on engineering challenges. Currently, I'm working on UM:Autonomy’s new vessel, ORCA 2, in 
-            preparation for the RoboBoat 2026 Competition in February. 
+            hands-on engineering challenges. Currently, I'm working on UM:Autonomy’s new vessel, in 
+            preparation for the RoboBoat 2027 Competition in February. 
 
           </p>
         </div>

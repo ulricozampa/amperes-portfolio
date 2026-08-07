@@ -20,7 +20,7 @@ export default function Home() {
           <h1 className="text-3xl font-normal mb-6 text-gray-900">Ulrico Zampa</h1>
           
           <p className="text-s text-gray-600 leading-relaxed">
-            Second-year undergraduate student at the University of Michigan (College of Engineering), majoring 
+            Undergraduate student at the University of Michigan majoring 
             in Naval Architecture and Marine Engineering, passionate about ship design, marine innovation, and 
             hands-on engineering challenges. Currently, I'm working on UM:Autonomy’s new vessel, in 
             preparation for the RoboBoat 2027 Competition in February. 

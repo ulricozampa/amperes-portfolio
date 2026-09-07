@@ -48,7 +48,7 @@ export default function Projects() {
             {/* Image Gallery */}
             <div className="grid grid-cols-3 gap-4 mb-6">
               <img 
-                src="/image_01.jpg" 
+                src="/image_09.jpg" 
                 alt="um:autonomy_image_01"
                 className="w-full h-48 rounded object-cover"
               />
@@ -73,7 +73,7 @@ export default function Projects() {
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/image_06.jpg" 
+                src="/image_10.jpg" 
                 alt="um:autonomy_image_06"
                 className="w-full h-48 rounded object-cover"
               />

@@ -48,7 +48,7 @@ export default function Projects() {
             {/* Image Gallery */}
             <div className="grid grid-cols-3 gap-4 mb-6">
               <img 
-                src="/image_09.jpg" 
+                src="/image_09.JPG" 
                 alt="um:autonomy_image_01"
                 className="w-full h-48 rounded object-cover"
               />

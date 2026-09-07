@@ -114,17 +114,17 @@ export default function Projects() {
             <div className="grid grid-cols-3 gap-4 mb-6">
               <img 
                 src="/IMG_7325.jpg" 
-                alt=" Modellini image 1"
+                alt=" modellini_image_01"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/IMG_7134.jpg" 
-                alt="Modellini image 2"
+                alt="modellini_image_02"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
                 src="/IMG_7553.jpg" 
-                alt="Modellini image 3"
+                alt="modellini_image_03"
                 className="w-full h-48 rounded object-cover"
               />
               

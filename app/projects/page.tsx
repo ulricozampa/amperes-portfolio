@@ -48,32 +48,32 @@ export default function Projects() {
             {/* Image Gallery */}
             <div className="grid grid-cols-3 gap-4 mb-6">
               <img 
-                src="/Orca.jpg" 
+                src="/image_01.jpg" 
                 alt="UM::Autonomy project image 1"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/IMG_1688.JPG" 
+                src="/image_02.JPG" 
                 alt="UM::Autonomy project image 2"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/55145521416_24b204d36d_o.jpg" 
+                src="/image_03.jpg" 
                 alt="UM::Autonomy project image 3"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/Comp Photo.jpg" 
+                src="/image_04.jpg" 
                 alt="UM::Autonomy project image 4"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/IMG_3459.jpg" 
+                src="/image_05.jpg" 
                 alt="UM::Autonomy project image 5"
                 className="w-full h-48 rounded object-cover"
               />
               <img 
-                src="/Orca2 section cut.jpg" 
+                src="/image_06.jpg" 
                 alt="UM::Autonomy project image 6"
                 className="w-full h-48 rounded object-cover"
               />
